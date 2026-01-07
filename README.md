@@ -1,5 +1,4 @@
-# Amin Sadri, PhD
-This page provides selected publications, talks, and applied AI projects referenced in my CV.
+# Amin Sadri, Supporting Material for CV
 
 ---
 
